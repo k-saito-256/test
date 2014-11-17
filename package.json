@@ -1,0 +1,15 @@
+{
+  "name": "travis_test"
+  , "version": "0.0.1"
+  , "dependencies": {
+  }
+  , "devDependencies": {
+    "mocha": "*"
+  }
+  , "scripts": {
+    "test": "mocha"
+  }
+  , "engines": {
+    "node": "0.9.x"
+  }
+}
