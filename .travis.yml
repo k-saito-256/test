@@ -1,0 +1,20 @@
+language: js
+js:
+#  - "5.4"
+#  - "5.3"
+before_install:
+#  - command1
+#  - command2
+before_script:
+#  - php composer.phar install
+#  - php app/console xxxx
+script:
+#  - phpunit -c app
+#  - phantomjs xxxx/run-jasmine.js xxxx/test.html
+
+notifications:
+  emails:
+    - aaaaa@un.ko
+    - bbbbb@un.ko
+  on_success: always # default: change
+  on_failure: always
