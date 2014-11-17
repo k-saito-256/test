@@ -14,7 +14,7 @@ script:
 
 notifications:
   emails:
-    - aaaaa@un.ko
-    - bbbbb@un.ko
+    - k.saito.256@gmail.com
+    # - bbbbb@un.ko
   on_success: always # default: change
   on_failure: always
